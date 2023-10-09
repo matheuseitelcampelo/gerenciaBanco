@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/mathe/OneDrive/Área de Trabalho/portifolio loo/gerenciaBanco/gerenciaBanco/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/mathe/OneDrive/Área de Trabalho/portifolio loo/gerenciaBanco/gerenciaBanco/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'gerenciaBanco 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'gerenciaBanco 1.0-SNAPSHOT API'
+com.mycompany.gerenciabanco
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\src\main\java = 1696866491862
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\allclasses-index.html = 1696873679252
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\allpackages-index.html = 1696873679269
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\copy.svg = 1696873679503
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\element-list = 1696873678956
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\help-doc.html = 1696873679450
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\index-all.html = 1696873679389
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\index.html = 1696873679418
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\member-search-index.js = 1696873679298
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\module-search-index.js = 1696873679277
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\overview-tree.html = 1696873679168
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\package-search-index.js = 1696873679284
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\script.js = 1696873679487
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\search-page.js = 1696873679534
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\search.html = 1696873679406
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\search.js = 1696873679518
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\stylesheet.css = 1696873679476
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\tag-search-index.js = 1696873679304
+C:\Users\mathe\OneDrive\Área de Trabalho\portifolio loo\gerenciaBanco\gerenciaBanco\target\site\apidocs\type-search-index.js = 1696873679291
